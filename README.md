@@ -17,8 +17,11 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 
 1.Total Sales by Fat Content:
+
  o Objective: Analyze the impact of fat content on total sales.
+ 
  o Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+ 
  o Chart Type: Donut Chart
 
 2.Total Sales by Item Type:
