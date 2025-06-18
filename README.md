@@ -30,35 +30,29 @@ Chart Type: Bar Chart
 
 3.Fat Content by Outlet for Total Sales
 
-o Objective: Compare total sales across different outlets segmented by fat content.
-
-o Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-
-o Chart Type: Stacked Column Chart
+Objective: Compare total sales across different outlets segmented by fat content.
+Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+Chart Type: Stacked Column Chart
 
 4.Total Sales by Outlet Establishment
 
-o Objective: Evaluate how the age or type of outlet establishment influences total sales.
-
-o Chart Type: Line Chart
+Objective: Evaluate how the age or type of outlet establishment influences total sales.
+Chart Type: Line Chart
 
 5.Sales by Outlet Size
 
-o Objective: Analyze the correlation between outlet size and total sales.
-
-o Chart Type: Donut / Pie Chart
+Objective: Analyze the correlation between outlet size and total sales.
+Chart Type: Donut / Pie Chart
 
 6.Sales by Outlet Location
 
-o Objective: Assess the geographic distribution of sales across different locations.
-
-o Chart Type: Funnel Map
+Objective: Assess the geographic distribution of sales across different locations.
+Chart Type: Funnel Map
 
 7.All Metrics by Outlet Type
 
-o Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
-
-o Chart Type: Matrix Card
+Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+Chart Type: Matrix Card
 
 ## Dashboard
 ![Home Page Desktop](https://github.com/reddemhari055/BLINKIT-ANALYIS/blob/main/Screenshot%202025-06-18%20130805.png)
