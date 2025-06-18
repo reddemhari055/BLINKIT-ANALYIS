@@ -25,29 +25,43 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
  o Chart Type: Donut Chart
 
 2.Total Sales by Item Type:
+
 o Objective: Identify the performance of different item types in terms of total sales.
+
 o Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+
 o Chart Type: Bar Chart
 
 3.Fat Content by Outlet for Total Sales
+
 o Objective: Compare total sales across different outlets segmented by fat content.
+
 o Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+
 o Chart Type: Stacked Column Chart
 
 4.Total Sales by Outlet Establishment
+
 o Objective: Evaluate how the age or type of outlet establishment influences total sales.
+
 o Chart Type: Line Chart
 
 5.Sales by Outlet Size
+
 o Objective: Analyze the correlation between outlet size and total sales.
+
 o Chart Type: Donut / Pie Chart
 
 6.Sales by Outlet Location
+
 o Objective: Assess the geographic distribution of sales across different locations.
+
 o Chart Type: Funnel Map
 
 7.All Metrics by Outlet Type
+
 o Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+
 o Chart Type: Matrix Card
 
 ## Dashboard
